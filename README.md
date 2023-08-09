@@ -12,4 +12,4 @@ This is a directory containing 50 react application. You ca clone and use indivi
 
 The project has started with an aim to get proper hands-on coding expreience without any ,code-along', youtube, tutorials or workshops, etc. The aim was to actually start coding with reference to articles as we go. To implement good practices, design philosophies to learn to code more than to watch.
 
-The applications are meant to increase in difficulty as we go.
+The applications are meant to increase in difficulty as we go .
